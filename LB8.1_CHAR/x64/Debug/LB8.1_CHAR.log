@@ -1,0 +1,4 @@
+﻿  LB8.1_CHAR.cpp
+E:\Project\АП\LB8\LB8.1_CHAR\LB8.1_CHAR\LB8.1_CHAR.cpp(11,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\Project\АП\LB8\LB8.1_CHAR\LB8.1_CHAR\LB8.1_CHAR.cpp(26,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  LB8.1_CHAR.vcxproj -> E:\Project\АП\LB8\LB8.1_CHAR\x64\Debug\LB8.1_CHAR.exe
